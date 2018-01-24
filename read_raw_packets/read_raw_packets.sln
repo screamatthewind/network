@@ -1,0 +1,27 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "read_raw_packets", "read_raw_packets\read_raw_packets.vcxproj", "{44A479E1-BDBB-468A-91D5-963089EB1823}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44A479E1-BDBB-468A-91D5-963089EB1823}.Debug|x64.ActiveCfg = Debug|Win32
+		{44A479E1-BDBB-468A-91D5-963089EB1823}.Debug|x86.ActiveCfg = Debug|Win32
+		{44A479E1-BDBB-468A-91D5-963089EB1823}.Debug|x86.Build.0 = Debug|Win32
+		{44A479E1-BDBB-468A-91D5-963089EB1823}.Release|x64.ActiveCfg = Release|Win32
+		{44A479E1-BDBB-468A-91D5-963089EB1823}.Release|x86.ActiveCfg = Release|Win32
+		{44A479E1-BDBB-468A-91D5-963089EB1823}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53C86DD9-090F-48C6-9334-6B4B3875EF65}
+	EndGlobalSection
+EndGlobal
