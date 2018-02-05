@@ -1,0 +1,27 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tcp-echo-client", "tcp-echo-client\tcp-echo-client.vcxproj", "{442864AA-76F0-4C2A-A0FC-1A98E9594BFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{442864AA-76F0-4C2A-A0FC-1A98E9594BFE}.Debug|x64.ActiveCfg = Debug|Win32
+		{442864AA-76F0-4C2A-A0FC-1A98E9594BFE}.Debug|x86.ActiveCfg = Debug|Win32
+		{442864AA-76F0-4C2A-A0FC-1A98E9594BFE}.Debug|x86.Build.0 = Debug|Win32
+		{442864AA-76F0-4C2A-A0FC-1A98E9594BFE}.Release|x64.ActiveCfg = Release|Win32
+		{442864AA-76F0-4C2A-A0FC-1A98E9594BFE}.Release|x86.ActiveCfg = Release|Win32
+		{442864AA-76F0-4C2A-A0FC-1A98E9594BFE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4DBFBA1-9FC0-499D-9C32-F194BBF8A81A}
+	EndGlobalSection
+EndGlobal
